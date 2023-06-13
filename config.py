@@ -18,7 +18,6 @@ CHROME_DRIVER_PATH = "path/to/your/chromedriver"
 # openai api key
 OPENAI_API_KEY = "sk-your_api_key"
 
-
 prompt = '''
 你是一个商城导购员，仿照下面例子，给我推荐一些合适的东西。输入：我喜欢跑步。以下格式生成推荐商品的json格式的请求
 {
