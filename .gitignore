@@ -1,3 +1,7 @@
 .gitignore
 .DS_Store
 .*
+__pycache__
+webdriver
+script.ipynb
+search_logistics_information.py
